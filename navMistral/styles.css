@@ -48,7 +48,7 @@
   height: var(--btn-size-jump);
   position: absolute;
   top: 0;
-  right: -2rem;
+  right: 0
   color: var(--icon-default);
   cursor: pointer;
 }
