@@ -1,7 +1,7 @@
 * {
   /* --icon-default: #969696; */
-  --icon-default: #f48c41;
-  --btn-size-main: 2.5rem;
+  --icon-default: #f97316;
+  --btn-size-main: 2rem;
   --btn-size-jump: 2rem;
  }
 
@@ -39,11 +39,11 @@
   z-index: 1000;
   color: var(--icon-default);
   cursor: pointer;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 /* button next to shortened user posts */
-.btn-jump svg {
+.btn-jump {
   width: var(--btn-size-jump);
   height: var(--btn-size-jump);
   position: absolute;
@@ -52,3 +52,28 @@
   color: var(--icon-default);
   cursor: pointer;
 }
+
+/* go up mid down buttons */
+.go-button {
+  width: var(--btn-size-main);
+  height: var(--btn-size-main);
+  z-index: 1000;
+  color: var(--icon-default);
+  cursor: pointer;
+  margin-bottom: 0.25rem;
+}
+
+/* fade in animation */
+@keyframes fadeIn {
+  from {
+      opacity: 0;
+  }
+  to {
+      opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.25s ease-in-out;
+}
+
