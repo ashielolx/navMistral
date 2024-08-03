@@ -14,16 +14,17 @@ Chrome and Firefox store versions should come soon.
 ---
 
 ## Normal state:
-![image](https://github.com/user-attachments/assets/ade26609-eabe-4933-a8e3-b6d8aec3ca93)
+![image](https://github.com/user-attachments/assets/2733bced-7107-4195-97d1-099193a03e27)
 
 ---
 
 ## Using navMistral:
-![image](https://github.com/user-attachments/assets/add8421a-b891-44b5-9d5f-817f3eb26a62)
+![image](https://github.com/user-attachments/assets/8db44579-70e9-4b4d-bdea-bea178097a09)
 
 ---
 
 ### Clicking on a button next to your post will move you to that point of conversation:
-![image](https://github.com/user-attachments/assets/f8990274-4013-4a2b-8a77-a3bd9434854b)
+![image](https://github.com/user-attachments/assets/e29a4233-decd-4e83-8b26-2eaa142bc89f)
+
 
 
