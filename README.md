@@ -7,7 +7,7 @@ Extends Le Chat's conversation navigation options!
 
 ---
 
-**Normal state:**
+## Normal state:
 ![image](https://github.com/user-attachments/assets/ade26609-eabe-4933-a8e3-b6d8aec3ca93)
 
 ---
