@@ -19,7 +19,7 @@ Chrome and Firefox store versions should come soon.
 ---
 
 ## Using navMistral:
-![image](https://github.com/user-attachments/assets/8db44579-70e9-4b4d-bdea-bea178097a09)
+![image](https://github.com/user-attachments/assets/74d8535e-aec2-48f2-adbd-a5960150c8af)
 
 ---
 
