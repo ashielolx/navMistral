@@ -8,6 +8,7 @@
 **How to use:**
 
 Go to your Manage extensions panel and enable dev mode. After that, you can add the folder by "load unpacked". This was made using a Chromium browser, but it should work on Firefox with some minor chances since the script is very simple.
+
 Chrome and Firefox store versions should come soon.
 
 ---
