@@ -30,7 +30,6 @@ function clickBtnRight() {
 function clickBtnJump() {
   document.addEventListener('click', function (event) {
     if (event.target.closest('.btn-jump')) {
-      console.log('btnJump click detected!');
       showMistralPosts();
       fullUserPosts();
 
@@ -107,14 +106,12 @@ function createButtons() {
 
   const containerContainer = document.createElement('div');
   containerContainer.className = 'container-container';
-  console.log('creater conntainer container');
 
   const btnContainer = document.createElement('div');
   btnContainer.className = 'btn-container';
   btnContainer.innerHTML = svgRight;
   containerContainer.appendChild(btnContainer);
   document.body.appendChild(containerContainer);
-  console.log('added container container and everything inside it');
 }
 
 // create buttons next to user's posts
@@ -132,7 +129,6 @@ function btnJump() {
     btnJump.innerHTML = svgBtnJump;
     post.appendChild(btnJump);
   });
-  console.log('btnJump success');
 }
 
 // adjust button hover brighteness dependong on dark/light theme
