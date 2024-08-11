@@ -26,7 +26,7 @@ Chrome and Firefox store versions should come soon.
 ### Clicking on a button next to your post will move you to that point of conversation:
 ![image](https://github.com/user-attachments/assets/e29a4233-decd-4e83-8b26-2eaa142bc89f)
 
-![1_RzNYOjq6gMFHdzFuHu66xA](https://github.com/user-attachments/assets/64bd371e-d2fd-41ea-b326-3c3b7a17c431)(https://www.youtube.com/watch?v=f4_AUC7FLBg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/f4_AUC7FLBg/0.jpg)](https://www.youtube.com/watch?v=f4_AUC7FLBg)
 
 
 
