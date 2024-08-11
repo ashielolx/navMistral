@@ -11,8 +11,6 @@ Go to your Manage extensions panel and enable dev mode. After that, you can add 
 
 Chrome and Firefox store versions should come soon.
 
----
-
 ## Watch the demo on YouTube:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/f4_AUC7FLBg/0.jpg)](https://www.youtube.com/watch?v=f4_AUC7FLBg)
