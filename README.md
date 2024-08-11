@@ -13,19 +13,7 @@ Chrome and Firefox store versions should come soon.
 
 ---
 
-## Normal state:
-![image](https://github.com/user-attachments/assets/2733bced-7107-4195-97d1-099193a03e27)
-
----
-
-## Using navMistral:
-![image](https://github.com/user-attachments/assets/74d8535e-aec2-48f2-adbd-a5960150c8af)
-
----
-
-### Clicking on a button next to your post will move you to that point of conversation:
-![image](https://github.com/user-attachments/assets/e29a4233-decd-4e83-8b26-2eaa142bc89f)
-
+# Watch the demo on YouTube:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/f4_AUC7FLBg/0.jpg)](https://www.youtube.com/watch?v=f4_AUC7FLBg)
 
 
